@@ -2,7 +2,7 @@
 
 <img width="1163" alt="stockholm" src="https://user-images.githubusercontent.com/74931024/166300457-d3465ac4-13b6-4d84-ab8a-8a9097fac736.png">
 
-**If you want to learn more about IT topics, visit my website:** [**IA Notes**](https://ia-notes.com/)
+**If you want to learn more about IT topics, [I invite you to join my Patreon channel](https://www.patreon.com/pgomeza) and visit my website:** [**IA Notes**](https://ia-notes.com/)
 
 **stockholm** is made to allow us to enter the world of ransomware. We will try to implement a program that can infect a specific directory on a **Debian** system. The infection will encrypt all files, in **/home/infection/**, with the extensions that were used in the Wannacry attack. To find out if the encryption has been done consistently, we will also implement a decryption function to see if we recover the encrypted data.<br>
 
